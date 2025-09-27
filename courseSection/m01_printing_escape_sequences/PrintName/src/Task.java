@@ -1,10 +1,12 @@
 public class Task {
     public static void main(String[] args) {
 
-   String firstName = "Alan";
-   String lastName = "Turing";
+        //Write your solution here
 
-   System.out.println(lastName + ", " + firstName);
+        String firstName = "Alan";
+        String lastName = "Turing";
+
+        System.out.print(lastName + ", " + firstName);
 
     }
 }
